@@ -11,19 +11,19 @@ The solutions are organized by problem, with separate files for the solution log
 Python_Assignment/
 │
 ├── src/
-│   ├── question_1/
+│   ├── lists/
 │   │   ├── util.py
 │   │   └── driver.py
-│   ├── question_2/
+│   ├── calendar/
 │   │   ├── util.py
 │   │   └── driver.py
 │   └── ...
 │
 ├── tests/
-│   ├── question_1/
-│   │   └── test_question_1.py
-│   ├── question_2/
-│   │   └── test_question_2.py
+│   ├── lists/
+│   │   └── test_lists.py
+│   ├── calendar/
+│   │   └── test_calendar.py
 │   └── ...
 │
 └── README.md
