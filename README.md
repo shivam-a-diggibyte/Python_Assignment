@@ -1,4 +1,3 @@
-````markdown
 # Python Assignment
 
 This repository contains my HackerRank Python solutions completed as part of my Python training and practice.
@@ -92,5 +91,3 @@ python -m unittest discover
 
 The purpose of this repository is to practice Python programming and problem-solving through HackerRank challenges while maintaining a structured and testable codebase.
 
-```
-```
